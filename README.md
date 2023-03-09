@@ -5,6 +5,8 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BRUNOURBANODEEV&show_icons=true&theme=onedark) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/BRUNOURBANODEEV/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia 
 
 <div style="display: inline_block"><br/> 
